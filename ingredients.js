@@ -31,3 +31,4 @@ function printIngredientsBackwards(items) {
 
 console.log("\nBackwards:")
 printIngredientsBackwards(ingredients);
+
